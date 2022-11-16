@@ -1,0 +1,77 @@
+@media (max-width: 1440px) {
+.container{
+    width: 90%;
+}
+}
+@media (max-width: 1200px) {}
+@media (max-width: 1024px) {
+    .header-title{
+        display: none;
+    }
+}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+@media (max-width: 576px) {}
+@media (max-width: 451px) {
+
+}
+@media (max-width: 400px) {
+
+}
+@media (max-width: 376px) {
+
+}
+@media (max-width: 320px) {
+
+    .header-title {
+        display: none;
+    }
+    .header-img img{
+        width: 30%;
+    }
+    /*.hero{*/
+    /*    margin-top: -130px;*/
+    /*}*/
+    .hero-title h1{
+        font-size: 13px;
+        width: 200px;
+    }
+    .hero-title p{
+        font-size: 10px;
+        width: 220px;
+    }
+    .btn-left button{
+        font-size: 9px;
+        width: 160px;
+    }
+    .btn-left button ion-icon{
+        font-size: 15px;
+    }
+    .btn-right button{
+        font-size: 9px;
+        width: 80px;
+    }
+    .btn-right button ion-icon{
+        font-size: 15px;
+    }
+    .blocks-block h1{
+        font-size: 15px ;
+    }
+    .icon1 a{
+        font-size: 15px;
+    }
+    .icon2 a{
+        font-size: 15px;
+    }
+    .figur{
+        position: absolute;
+        top:1045px;
+        width: 20px;
+        height: 20px;
+        left: 225px;
+    }
+    .figur1{
+        position: absolute;
+        top: 1045px;
+    }
+}
